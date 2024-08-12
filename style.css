@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 5;
+    padding: 10px, 0;
+}
+
+.product {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.product h2 {
+    margin: 0 0 10px 0;
+}
+
+#box, #hover-box, #toggle-box {
+    width: 200px;
+    height: 100px;
+    border: 1px solid #000;
+    margin: 10px 0;
+    text-align: center;
+    line-height: 100px;
+}
+
+#box {
+    background-color: red;
+}
+
+#hover-box {
+    width: 200px;
+    height: 100px;
+    border: 2px solid #000;
+    margin: 10px 0;
+    text-align: center;
+    line-height: 100px;
+}
